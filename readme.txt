@@ -6,3 +6,5 @@ test stash
 test2
 test4
 stash bug
+stash
+
