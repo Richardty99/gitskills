@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 test stash
 test2
 test4
+stash bug
